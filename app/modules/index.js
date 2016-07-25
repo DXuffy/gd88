@@ -1,5 +1,5 @@
 'use strict';
-//asd
+
 document.addEventListener('touchstart', function () {}, false);
 
 // common css
